@@ -57,6 +57,11 @@ export default function Home() {
             API
           </Link>
         </li>
+                <li>
+                    <Link href="/Data" className="text-blue-500 hover:underline">
+            Data
+          </Link>
+        </li>
       </ul>
      </nav>
     </div>
