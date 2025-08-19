@@ -52,6 +52,11 @@ export default function Home() {
             Dialog
           </Link>
         </li>
+        <li>
+                    <Link href="/api/post" className="text-blue-500 hover:underline">
+            API
+          </Link>
+        </li>
       </ul>
      </nav>
     </div>
